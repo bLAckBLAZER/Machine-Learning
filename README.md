@@ -4,3 +4,6 @@ The code used for implementing YOLO has been taken from Andrew NG’s GitHub rep
 https://github.com/enggen/Deep-Learning-Coursera
 
 Download the yolov3 weights from https://pjreddie.com/media/files/yolov3.weights and place it inside the data folder.
+
+Run the cvcourse_windows.yml file to create the environment.
+ 
